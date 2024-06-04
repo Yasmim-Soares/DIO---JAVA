@@ -1,3 +1,4 @@
+package Sintaxe.sintaxe;
 public class TiposVariaveis {
     public static void main(String[] args) throws Exception {
         //Java Beans - metodos
